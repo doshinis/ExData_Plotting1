@@ -12,7 +12,6 @@ plot1 <- function(){
     dtHpc<- subset(dtHpc, hpcDate >= as.Date('2007-02-01',format='%Y-%m-%d') 
                    & hpcDate <= as.Date('2007-02-02',format='%Y-%m-%d'))
 
-
     ## set png device for 480 X 480
     png(file = "plot1.png", width = 480, height = 480)
     

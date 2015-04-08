@@ -33,6 +33,5 @@ plot3 <- function(){
     
     ## Close the device
     dev.off()
-    
 }
 

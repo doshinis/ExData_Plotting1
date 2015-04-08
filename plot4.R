@@ -24,7 +24,7 @@ plot4 <- function(){
     ## Plot each graph one by one row wise    
     with(dtHpc, {
         plot(date, dtHpc$Global_active_power, type="l", xlab = "",
-             ylab = paste0('Global Active Power (kilowatts)'))
+             ylab = paste0('Global Active Power'))
         
         plot(date, dtHpc$Voltage, type="l", xlab = "datetime", ylab = "Voltage")
         

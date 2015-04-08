@@ -25,6 +25,5 @@ plot2 <- function(){
     
     ## Close Device    
     dev.off()
-    
 }
 
