@@ -1,7 +1,5 @@
 
 
-###For the assignment evaluation, please refer to REPO "https://github.com/doshinis/exdata". By mistake I created a separate repo instead of checking-in / uploading file to this forked repository.
-
 ## Introduction
 
 This assignment uses data from
